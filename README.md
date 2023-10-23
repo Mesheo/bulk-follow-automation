@@ -8,7 +8,7 @@ Este é um pequeno script Python que permite seguir várias contas do Twitter de
 
 ## Requisitos
 - Python 3.9
-- Biblioteca pyautogui `pip install pyautogui`)
+- Biblioteca pyautogui `pip install pyautogui`
 
 ## Uso
 1. Clone o repositório.

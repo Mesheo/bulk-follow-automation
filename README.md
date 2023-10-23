@@ -4,7 +4,7 @@
 Este é um pequeno script Python que permite seguir várias contas do Twitter de uma só vez. Ele utiliza a biblioteca pyautogui pra simular o processo de abrir uma nova aba e seguir o perfil.
 
 ## Exemplo do script funcionando
-![gif_do_script]('https://media.discordapp.net/attachments/723617049338970173/1166005465512149132/github_gif.gif?ex=6548ea36&is=65367536&hm=01770967203d88abccece238a0bc192385260e3db13de0946693231ae842392d&=&width=882&height=468')
+![gif_do_script]('https://drive.google.com/file/d/1eNn7AbSa_GdsHkH0qr8UZNrMd8ZDj6jB/view?usp=share_link')
 
 ## Requisitos
 - Python 3.9
